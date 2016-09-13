@@ -1,3 +1,11 @@
+---
+title: "Test page"
+layout: single
+excerpt: "Page not found. Your pixels are in another canvas."
+sitemap: false
+permalink: /test.html
+---
+
 ### Hello World ###
    <?php some code ?>
    #include "stdio.h"
